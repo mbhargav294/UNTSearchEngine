@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<head>
+	<title>UNT Search Engine</title>
+	<style> 
+		p.test {
+			width: 35em; 
+			word-wrap: break-word;
+		}
+	</style>
+	<script>
+	var page = 1;
+	var start = 0;
+	var end = 4;
+	var totalPages = 0;
+	
+	
+	function loadXMLDoc(a) {
+	  if(a==0)
+	  {
+			page = 1;
+			start = 0;
+			end = 4;
+			totalPages = 0;
+	  }
+	  var xmlhttp = new XMLHttpRequest();
+	  xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			myFunction(xmlhttp);
+		}
+	  };
+	  document.getElementById("nextBut").disabled = false;
+	  xmlhttp.open("GET", "tableData.xml", true);
+	  xmlhttp.send();
+	  xmlhttp.close();
+	}
+	
+	function nextPage() {
+		page = page + 1;
+		if(page<=totalPages)
+		{
+			start = start + 4;
+			end = end + 4;
+		}
+		if(page > totalPages)
+			page = totalPages;
+		if(end - start != 4)
+			end = end + (4 - end + start);
+			
+		if(page==1)
+			document.getElementById("prevBut").disabled = true;
+		else
+			document.getElementById("prevBut").disabled = false;
+			
+		if(page == totalPages)
+		{
+			//document.write(page+" "+totalPages);
+			document.getElementById("nextBut").disabled = true;
+		}
+		else
+			document.getElementById("nextBut").disabled = false;
+		loadXMLDoc(1);
+	}
+	
+	function prevPage() {
+		page = page - 1;
+		if(page < 1)
+			page = 1;
+		if(page>=1)
+		{
+			start = start - 4;
+			end = end - 4;
+		}
+		if(end - start != 4)
+			end = end + (4 - end + start);
+			
+		if(page == totalPages)
+			document.getElementById("nextBut").disabled = true;
+		else
+			document.getElementById("nextBut").disabled = false;
+			
+		if(page==1)
+			document.getElementById("prevBut").disabled = true;
+		else
+			document.getElementById("prevBut").disabled = false;
+		loadXMLDoc(1);
+	}
+	
+	function myFunction(xml) {
+	  var i;
+	  var xmlDoc = xml.responseXML;
+	  var table="";
+	  var x = xmlDoc.getElementsByTagName("RESULT");
+	  totalPages = Math.ceil(x.length/4);
+	  if(end > x.length)
+		end = x.length;
+	  if(start < 0 )
+		start = 0;
+	  for (i = start; i <end; i++) { 
+		table += "<tr><td><h3><a href=\"" + x[i].getElementsByTagName("LINK")[0].childNodes[0].nodeValue + " \">"+
+		x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+		"</a></h3><p class=\"test\">" +
+		x[i].getElementsByTagName("DESC")[0].childNodes[0].nodeValue +
+		"</p></td></tr>";
+	  }
+	  document.getElementById("demo").innerHTML = table;
+	  document.getElementById("page").innerHTML = "Page Number: "+page+"Total Pages: "+totalPages;
+	}
+	</script>
+</head>
+<body>
+	<h1>UNT Search Engine</h1>
+	<div>
+		<input type="text" length=50/>
+		<input type="button" onclick="loadXMLDoc(0)">Search</button>
+	</div>
+	<div>
+		<table id="demo">
+		</table>
+	</div>
+	<div id="page"></div>
+	<button type="button" id="prevBut" onclick="prevPage()" disabled>&lt;Prev</button>
+	<button type="button" id="nextBut" onclick="nextPage()" disabled>Next&gt;</button>
+</body>

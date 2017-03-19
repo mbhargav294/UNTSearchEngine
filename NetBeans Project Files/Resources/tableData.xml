@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SEARCHRESULTS>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/color-picture.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia's Publications</TITLE>
+<DESC>Cornelia s Publications Home   Research   Publications   Teaching   Curriculum Vitae   Links Cornelia Caragea F228 Discovery Park Computer Science and Engineering University of North Texas Denton  TX 76203  USA ude tnu aegaracc 2016 Ashwini Tonge and Cornelia Caragea   Image Privacy Prediction Using Deep Features  In  Proceedings of the 30th American Association for Artificial Intelligence  AAAI 2016  Student Abstract and Poster Program  Phoenix  Arizona  USA  2016   Using supervised machine learning approaches based on convolutional neural networks to improve privacy prediction of images uploaded on social networking sites   pdf   poster   poster spotlight  Cornelia Caragea  Jian Wu  Sujath...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/publications.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Teaching   Curriculum Vitae   Links Cornelia Caragea F228 Discovery Park Computer Science and Engineering University of North Texas Denton  TX 76203  USA ude tnu aegaracc I am an Assistant Professor at University of North Texas in the Computer Science and Engineering department  My research interests are artificial intelligence  machine learning  information retrieval  and natural language processing  with applications to scholarly big data and digital libraries  News Several Research Assistantships Available  I am currently looking for smart and highly motivated PhD students  If you are a student interested in Natural Language Processing  In...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Teaching   Curriculum Vitae   Links Cornelia Caragea F228 Discovery Park Computer Science and Engineering University of North Texas Denton  TX 76203  USA ude tnu aegaracc Online research profiles Google Scholar profile DBLP profile Microsoft Academic Search profile Current Funding My research is funded by several National Science Foundation grants  Current Research Projects CiteSeerX  A Scholarly Big Dataset Keyphrase Extraction in Document Networks Establishing Trustworthy Citizen Created Data for Disaster Response and Humanitarian Action  see also here the most recent webpage for this project at Penn State  Towards Privacy Preserving Online...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/research.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Teaching   Curriculum Vitae   Links Cornelia Caragea F228 Discovery Park Computer Science and Engineering University of North Texas Denton  TX 76203  USA ude tnu aegaracc Research Interests My research interests are in artificial intelligence  machine learning  data mining  information retrieval  and natural language processing  with applications to text and image analysis  and social network analysis  The overarching goal of my research is to effectively and efficiently mine and discover knowledge from large amounts of data  I am particularly interested in information extraction  supervised and semi supervised learning  privacy analysis  kno...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/cv_cornelia.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Keyphrase Extraction</TITLE>
+<DESC>Keyphrase Extraction Home   Research   Publications   Teaching   Curriculum Vitae   Links Keyphrase Extraction in Document Networks Keyphrases for a document concisely describe the document using a small set of phrases  For example  the keyphrases  social networks  and  interest targeting  quickly provide us with a high level topic description  i e  a summary  of a document focused on targeting interest for recommending services such as products and news to users  in the context of social networks  Given today s very large collections of documents  these keyphrases are extremely important not only for summarizing a document  but also for the search and retrieval of relevant information  Howe...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/keyphrases.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Teaching   Curriculum Vitae   Links Establishing Trustworthy Citizen Created Data for Disaster Response and Humanitarian Action Much has been written concerning the value of using messaging and microblogged data from crowds of non professional participants during disasters  Often referred to as microblogging  the practice of average citizens reporting on activities  on the ground  during a disaster is seen as increasingly valuable  Data produced through microblogging is seen as ubiquitous  rapid and accessible  and it is believed to empower average citizens to become more situationally aware during disasters and coordinate to help themselves ...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/tsn</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Projects   Teaching   Curriculum Vitae   Links Extracting Keyphrases from Research Papers using Citation Networks Authors Sujatha Das Gollapalli and Cornelia Caragea Abstract Keyphrases for a document concisely describe the document using a small set of phrases  Keyphrases were previously shown to improve several document processing and retrieval tasks  In this work  we study keyphrase extraction from research papers by leveraging citation networks  We propose CiteTextRank for keyphrase extraction from research articles  a graph based algorithm that incorporates evidence from both a document s content as well as the contexts in which the docu...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/abstracts/aaai14.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Projects   Teaching   Curriculum Vitae   Links Citation Enhanced Keyphrase Extraction from Research Papers  A Supervised Approach Authors Cornelia Caragea  Florin Bulgarov  Andreea Godea  and Sujatha Das Gollapalli Abstract Given the large amounts of online textual documents available these days  e g  news articles  weblogs  and scientific papers  effective methods for extracting keyphrases  which provide a high level topic description of a document  are greatly needed  In this paper  we propose a supervised model for keyphrase extraction from research papers  which are embedded in citation networks  To this end  we design novel features base...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/abstracts/emnlp14.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CiteSeerX</TITLE>
+<DESC>CiteSeerX Home   Research   Publications   Teaching   Curriculum Vitae   Links CiteSeerX  A Scholarly Big Dataset The dataset and code are available upon request by sending an email to ccaragea unt edu  The CiteSeerX digital library stores and indexes research articles in Computer Science and related fields that are found on the Web  Its main purpose is to make it easier for researchers worldwide to search for scientific information  CiteSeerX is rapidly growing in size  The figure below shows the increase in the number of documents crawled from the Web  the number of ingested documents  as well as the number of documents  or research papers  indexed by CiteSeerX between 2008 and 2013  As ca...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/citeseer</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Teaching   Curriculum Vitae   Links Cornelia Caragea F228 Discovery Park Computer Science and Engineering University of North Texas Denton  TX 76203  USA ude tnu aegaracc Courses Spring 2016 CSE 5200  Information Retrieval and Web Search Fall 2015 CSE 5215  Machine Learning Spring 2015 CSE 5200  Information Retrieval and Web Search Fall 2014 CSE 5215  Machine Learning Summer 2014 RuSSIR 2014  Document Analysis and Retrieval in Scientific Digital Libraries  Case studies in applying Machine Learning for Information Retrieval Course accepted at the 8th Russian Summer School in Information Retrieval  RuSSIR 2014  to be held on August 18 22  2014 ...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/teaching.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Projects   Teaching   Curriculum Vitae   Links Computational Scientometrics  Theory and Applications The workshop will be held at The 22nd ACM International Conference on Information and Knowledge Management  CIKM 2013  Location  San Francisco  CA Date  October 28  2013 Organizing Committee  Cornelia Caragea  University of North Texas  TX  USA C  Lee Giles  Pennsylvania State University  PA  USA Lior Rokach  Ben Gurion University of the Negev  Israel Xiaozhong Liu  Indiana University Bloomington  USA Important Dates  Workshop Papers Due  July 15  2013 Notification of Acceptance  July 28  2013 Camera Ready  August 11  2013 Workshop Description...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/CIKM-WS-13.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CSCE 5215</TITLE>
+<DESC>CSCE 5215 CSCE 5215 Machine Learning Instructor  Cornelia Caragea Fall 2015 Home   Class Notes   Assignments   Links Announcements Please check Blackboard for homework assignments and other class related material  Welcome to the Machine Learning Class  Syllabus  PDF  Instructor  Cornelia Caragea Office  F228 Discovery Park Email  ccaragea  at  unt  dot  edu WWW  http www cse unt edu ccaragea  Lectures  Tue   Thr 2 30pm 3 45pm  Room NTDP B142 Office hours  Tue   Thr 1 00pm   2 00pm or by appointment  F228 Discovery Park Description  The objectives of the course are to understand machine learning algorithms and identify challenging problems on the Web  learn how to apply machine learning algor...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/cse5215.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Cornelia Caragea</TITLE>
+<DESC>Cornelia Caragea Home   Research   Publications   Projects   Teaching   Curriculum Vitae   Links Computational Scientometrics  Theory and Applications The workshop will be held at iConference 2013 Location  Dallas Fort Worth  Texas Date  Feb  12 15  2013 Organizing Committee  Cornelia Caragea  University of North Texas  TX  USA C  Lee Giles  Pennsylvania State University  PA  USA Vetle I  Torvik  University of Illinois at Urbana Champaign  IL  USA Lior Rokach  Ben Gurion University of the Negev  Israel Important Dates  January 10  2013   Submission deadline January 25  2013   Notification of acceptance January 30  2013   Camera ready February 12  2013   Workshop Workshop Description  The fie...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/iConfWs-13.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>IJCAI-16 Workshop</TITLE>
+<DESC>IJCAI 16 Workshop Scholarly Big Data  AI Perspectives  Challenges  and Ideas Workshop co located with IJCAI 2016 Overview Call for Papers Accepted Papers Program Invited Talks Organizers Submission Important Dates Submission Due April 15  2016 Deadline Extended  April 25  2016 Author Notification May 15  2016 Final Submission Due June 6  2016 Workshop Dates July 14 15  2016 Workshop News Contact  ude tnu aegaracc Workshop Organizers Cornelia Caragea  University of North Texas  USA Madian Khabsa  Microsoft Research  USA Sujatha Das Gollapalli  A STAR  Singapore C  Lee Giles  Pennsylvania State University  USA Alex D  Wade  Microsoft Research  USA Program Committee Hamed Alhoori  Northern Illi...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/ijcai2016ws/organizers.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CSCE 5200</TITLE>
+<DESC>CSCE 5200 CSCE 5200  Information Retrieval and Web Search Instructor  Cornelia Caragea Spring 2016 Home   Class Notes   Assignments   Links Announcements Welcome to the Information Retrieval and Web Search class  Syllabus  PDF  Instructor  Cornelia Caragea Office  F228 Discovery Park Email  ccaragea  at  unt  dot  edu WWW  http www cse unt edu ccaragea  Lectures  Tue   Thr 8 30am   9 50am  Room NTDP B190 Office hours  Tue   Thr 10 00am   11 00am or by appointment  F228 Discovery Park Description  The course objectives are to understand information retrieval algorithms and identify challenging problems on the Web The course will cover both traditional and newly developed algorithms in informa...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/cse5200.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Research Areas | Computer Science and Engineering</TITLE>
+<DESC>Research Areas   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Research Centers Research Areas Research Labs Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home   Research Research Areas Algorithms and Computational Science Algorithms  Combinatorics  and Graph Theory  Shahrokhi  Computational Epidemiology  Mikler  Computer Security Information Security and ...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/68</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT LIS Well Represented at ASIST 2014 Annual Meeting | College of Information</TITLE>
+<DESC>UNT LIS Well Represented at ASIS T 2014 Annual Meeting   College of Information Search Search this site  Skip to content MyUNT EagleConnect Blackboard People   Departments Maps Calendars Giving to UNT Home Academic Programs Research Student Resources Alumni and Friends People About COI Home UNT LIS Well Represented at ASIS T 2014 Annual Meeting Submitted by Anonymous on November 12  2014   12 57pm General The Association for Information Science and Technology  ASIS T annual international conference was held in Seattle October 31  November 5  2014  UNT Department of Library and Information Sciences sent a delegation of students and faculty  UNT welcomed the opportunity to host a recruiting ta...</DESC>
+<LINK>http://ci.unt.edu/2014_11_12_ASIST</LINK>
+</RESULT>
+<RESULT>
+<TITLE>2012 December CSE Advisory Council Meeting | Computer Science and Engineering</TITLE>
+<DESC>2012 December CSE Advisory Council Meeting   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home 2012 December CSE Advisory Council Meeting The CSE Advisory Board met on Friday  December 7  2012  The following Advisory Council members were present  Leticia Benavides   Raytheon Craig Berry   Siemens Tiff...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/450</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Student Email Newsletter - September 2012</TITLE>
+<DESC>UNT CSE Student Email Newsletter   September 2012 September 2012 Edition Department of Computer Science and Engineering News B S  in Computer Science accredited by ABET Welcome picnic on September 19 Dr  Kavi s Center wins Tech Titan award Welcome New CSE Faculty Under Prof  Mohanty s Leadership  UNT gets Major Visibility at International Conference Visiting Scholar at Computer Vision and Intelligent Systems Lab News from Dependable Computing Systems Lab LARC News News from Software Engineering Language Lab Software Testing Lab receives new grant Convergence Technology Center Upgraded CSE receives grant from STARS Alliance CSE Summer Camps Student News Congratulations to CSE graduates Studen...</DESC>
+<LINK>http://www.cse.unt.edu/people/StudentNewsletters/2012_Sep_StudentEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT Research Magazine Vol. 22, No. 1 - Spring 2013 - The University of North Texas - Faculty Researchers</TITLE>
+<DESC>UNT Research Magazine Vol  22  No  1   Spring 2013   The University of North Texas   Faculty Researchers Jump to Navigation Search the UNT web site  MyUNT EagleMail Blackboard People   Departments Maps Calendars Giving to UNT UNT Research UNT Research Home   Faculty Researchers Archives   Staff Faculty Researchers UNT Welcomes New Experts As a major public research university dedicated to providing students with an excellent educational experience  the University of North Texas continues to attract faculty members committed to innovative research  scholarship and creativity  Award winning faculty with national and international reputations in their fields   spanning science  technology and t...</DESC>
+<LINK>http://www.unt.edu/untresearch/2012-2013/faculty-researchers.htm</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - September 2012</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   September 2012 September 2012   CSE News Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  The UNT Department of Computer Science and Engineering is 40 years old and you are invited to attend our 40th Anniversary Celebration on Friday  October 26  You are also invited to tour our CSE Department that day at 10 am  2 pm and 4 pm  CSE students will be doing demos at the first two tours  We are excited about this event and we hope you are planning to attend  Please see the invitation below and RSVP by September 30  Just before the semester began  Dr  Krishna Kavi s Net Centric Software and Sys...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2012_Sep_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>RuSSIR 2014</TITLE>
+<DESC>RuSSIR 2014 RuSSIR 2014 Summer School 2014 Document Analysis and Retrieval in Scientific Digital Libraries Home   Class Notes Announcements Welcome to the RuSSIR 2014 course  Syllabus Instructors  Sujatha Das G  Cornelia Caragea  Xiaoli Li  C  Lee Giles Contact  Sujatha at  gsdas  at  cse  dot  psu  dot  edu Cornelia at  ccaragea  at  unt  dot  edu Relevance  This course is aimed at exposing the RuSSIR attendees to the challenges involved in designing and implementing the back end tasks of a large scale IR system  Machine learning techniques are studied as an alternative to rule based and heuristic approaches traditionally adopted in domain specific IR applications  This hands on course prov...</DESC>
+<LINK>http://www.cse.unt.edu/~ccaragea/russir14.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CICS: People</TITLE>
+<DESC>CICS  People   The Center for Information and Computer Security has affiliated faculty from 4 departments  from 3 colleges and schools  at the University of North Texas  the Department of Computer Science and Engineering  the Department of Business Computer Information Systems  the Department of Criminal Justice  and the Department of Engineering Technology  The faculty affiliated with the center are all experts in areas related to computer security and cybercrime  and many are recognized leaders in their field  The following list gives a brief bio of each faculty member  More information can be obtained by contacting the Center  Ram Dantu  Ph D  Director  Center for Information and Computer...</DESC>
+<LINK>http://www.cics.unt.edu/people.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Student Email Newsletter - November 2013</TITLE>
+<DESC>UNT CSE Student Email Newsletter   November 2013 November 2013 Edition Department of Computer Science and Engineering News ABET accreditation visit in Fall 2013 New Labs in CSE Distinguished Speakers in 2013 2014 Active Faculty Research Grants in Fall 2013 Gifts to CSE CSE Faculty recognized for promotion at UNT Faculty Success Dinner CSE attends Grace Hopper Celebration for Women in Computing CSE runs Camp Android at National Convergence Technology Center NACLO coming to CSE in 2014 Dr  Bryant presents keynote lecture in Poland Dr  Caragea gives talk in Greece  IIT seeks collaboration with CSE Dr  Huang develops location based social media search function Dr  Kavi presents paper at workshop...</DESC>
+<LINK>http://www.cse.unt.edu/people/StudentNewsletters/2013_Nov_StudentEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Knowledge Discovery from Digital Information</TITLE>
+<DESC>Knowledge Discovery from Digital Information MyUNT UNTranet EagleConnect Blackboard Maps Giving to UNT En Espa ol Home News Participants Research Projects Facilities   Resources Partners   Collaborators Open Positions Contact UNT   Office of Research   Economic Development   Research Clusters   Knowledge Discovery from Digital Information Knowledge Discovery from Digital Information Developing innovative technologies to process and analyze massive amounts of digital information   from terabyte to petabyte Welcome The Web  data repositories  and digital libraries have become society s core information resources  and potential knowledge is embedded in these large digital information stores  Ef...</DESC>
+<LINK>https://kddi.unt.edu</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Personnel | Center for Computational Epidemiology  Response Analysis (CeCERA)</TITLE>
+<DESC>Personnel   Center for Computational Epidemiology   Response Analysis  CeCERA  Skip to content MyUNT EagleConnect Blackboard People   Departments Maps Calendars Giving to UNT Center for Computational Epidemiology   Response Analysis  CeCERA  Home Research Personnel Publications News Tutorials Contact Home Personnel Director Armin R  Mikler mikler cs unt edu Professor Faculty Staff Chetan Tiwari Chetan Tiwari unt edu Geography Marty O Neill II martyo unt edu Computer Science Cornelia Caragea ccaragea unt edu Computer Science Joseph Oppong joseph oppong unt edu Geography Paul Tarau tarau cse unt edu Computer Science Rajeev Azad Rajeev Azad unt edu Biological Sciences   Mathematics Sam Atkinson...</DESC>
+<LINK>http://cerl.unt.edu/personnel</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CSE Faculty | Computer Science and Engineering</TITLE>
+<DESC>CSE Faculty   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Faculty Faculty History Staff Teaching Fellows   Assistants   Instructional Assistants Students Alumni PhD Recipients Honorees CSE Advisory Council Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home   People CSE Faculty Full Time Faculty Akl  Robert Associate Professor E Mail  robert akl ...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/18</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CSE Faculty | Computer Science and Engineering</TITLE>
+<DESC>CSE Faculty   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Faculty Faculty History Staff Teaching Fellows   Assistants   Instructional Assistants Students Alumni PhD Recipients Honorees CSE Advisory Council Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home   People CSE Faculty Full Time Faculty Akl  Robert Associate Professor E Mail  robert akl ...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/18</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - December 2013</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   December 2013 December 2013   CSE News CSE Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  The end of our Fall semester is approaching and I wanted to share the news of our CSE Department with you  We were visited by ABET evaluators in the past month to reaccredit our Computer Engineering B S  program and accredit for the first time our Information Technology B A  program  Thanks to all faculty  staff  alumni and students who met with the evaluators  One of the purposes of accreditation is to achieve continuous improvement  and so based on recommendations from the evaluators  we will be ...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2013_Dec_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT | Graduate Studies | Computer Science</TITLE>
+<DESC>UNT   Graduate Studies   Computer Science Skip to content UNT Home   Graduate Studies   College of Engineering   Computer Science Graduate faculty and research areas Robert Akl  Associate Professor  D Sc  Washington  St  Louis  Wireless communication  wireless security  multi cell network optimization  Voice over Internet Protocol  Barrett Bryant  Professor and Department Chair  Ph D  Northwestern  Programming languages and compiler design  component based software engineering  formal methods in software engineering  Renee Bryce  Associate Professor  Ph D  Arizona State  Software testing  test suite prioritization  test suite reduction  combinatorial testing  testing web applications  Bill B...</DESC>
+<LINK>http://www.unt.edu/pais/grad/gcsci.htm</LINK>
+</RESULT>
+<RESULT>
+<TITLE>Computational Methods for Vulnerability Analysis and Resource Allocation in Public Health Emergencies : UNT Digital Library</TITLE>
+<DESC>Computational Methods for Vulnerability Analysis and Resource Allocation in Public Health Emergencies   UNT Digital Library Primary Navigation Secondary Navigation Content Contact Us Home Search Explore About Help About this Dissertation Read this Dissertation Computational Methods for Vulnerability Analysis and Resource Allocation in Public Health Emergencies Brief Record Full Record Statistics Description  POD  Point of Dispensing based emergency response plans involving mass prophylaxis may seem feasible when considering the choice of dispensing points within a region  overall population density  and estimated traffic demands  However  the plan may fail to serve particular vulnerable sub ...</DESC>
+<LINK>http://digital.library.unt.edu/ark:/67531/metadc804902</LINK>
+</RESULT>
+<RESULT>
+<TITLE>CSCI / CSE Faculty History | Computer Science and Engineering</TITLE>
+<DESC>CSCI   CSE Faculty History   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Faculty Faculty History Staff Teaching Fellows   Assistants   Instructional Assistants Students Alumni PhD Recipients Honorees CSE Advisory Council Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home   People   Faculty CSCI   CSE Faculty History Chairs Dan Scott 1971 1981   ...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/91</LINK>
+</RESULT>
+<RESULT>
+<TITLE>2014 UNT Graduate Exhibition | Computer Science and Engineering</TITLE>
+<DESC>2014 UNT Graduate Exhibition   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home 2014 UNT Graduate Exhibition CSE Graduate Students participated in the UNT Graduate Exhibition on March 1  2014  The Graduate Exhibition celebrates research in all its aspects as an essential and exciting part of graduate...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/541</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - November 2012</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   November 2012 November 2012   Special Edition CSE News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  Our UNT Department of Computer Science and Engineering celebrated its 40th anniversary on October 26  2012  We are glad that so many of you came back to celebrate with us  It was a fun evening of connecting with old friends and meeting new friends  We are grateful to Nelson Cicchito  BS 1989  whose company Avatier Corp  sponsored this event  Alumni support is very important for the success of our CSE Department  I want to share the news of many of our research groups in our CSE Department  We have ...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2012_Nov_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - September 2015</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   September 2015 September 2015   CSE News CSE Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  Our CSE Department continues to grow with almost 1 200 students in Fall 2015  Our faculty continues to grow also with Dr  Hyunsook Do joining us  Congratulations to Dr  Saraju Mohanty on his promotion to Professor  This Fall ABET will visit and evaluate our B S  in Computer Science and B A  in Information Technology programs  Our B S  in Computer Engineering program was accredited in 2014  Our CSE Department is proud to offer programs that are accredited by ABET  I am very pleased that we have re...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2015_Sep_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Student Email Newsletter - December 2014</TITLE>
+<DESC>UNT CSE Student Email Newsletter   December 2014 December 2014 Edition Department of Computer Science and Engineering News CSE Faculty recognized at UNT Salute to Faculty Excellence CSE selected for BRAID L 3 Mission Integration donates equipment for CSE programs CSE attends Grace Hopper Celebration for Women in Computing CSE Advisory Council meets CSE hosts seminar with presenter from Samsung CERL  Computational Epidemiology Research Laboratory  News News from Computer Systems Research Laboratory Human Intelligence and Language Technologies Lab News News from Information Management and Knowledge Discovery Lab Software Engineering Laboratory  SELL  News Student News CSE Students defend Disse...</DESC>
+<LINK>http://www.cse.unt.edu/people/StudentNewsletters/2014_Dec_StudentEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - December 2014</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   December 2014 December 2014   CSE News CSE Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  Fall 2014 will be over soon and I wanted to share some news from our CSE Department  I want to congratulate Rodney Nielsen on his Research and Creativity Award for Competitive Funding Award  sponsored by the Office of Research and Economic Development  He received this award at the UNT Salute to Faculty Excellence  Yan Huang  Renee Bryce and Qunfeng Dong were also recognized that evening for their promotion and tenure achievements  I am excited to announce that our CSE Department received a donatio...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2014_Dec_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - July 2015</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   July 2015 July 2015   CSE News CSE Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  At the end of our Spring 2015 semester  I want to share some news from our CSE Department  We have hired a new faculty member this year with an active NSF Career Award  According to the NSF website  the Career Award is one of the  most prestigious awards in support of junior faculty who exemplify the role of teacher scholars through outstanding research  excellent education and the integration of education and research  Dr  Hyunsook Do will join us in Fall 2015  You may read more about her below  We are pr...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters//2015_Jul_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>2014 Fall CSE Schedule | Computer Science and Engineering</TITLE>
+<DESC>2014 Fall CSE Schedule   Computer Science and Engineering Computer Science and Engineering About Us Contact Us College of Engineering Navigation CSE Chair s Message People Research Education K 12 CS Teacher Preparation Advising Organizations Outreach News Media Gallery Links Scholarships Faculty Positions Syndicate B S  in Computer Science accredited since 1986 B S  in Computer Engineering accredited since 2008 B A  in Information Technology accredited since 2012 Home 2014 Fall CSE Schedule For Fall 2014 registration  the enrollment caps on courses are set at the physical capacity of the room  This means that caps will be higher  but that we have no way of allowing more people in the course ...</DESC>
+<LINK>http://www.cse.unt.edu/site/node/548</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Student Email Newsletter - September 2014</TITLE>
+<DESC>UNT CSE Student Email Newsletter   September 2014 September 2014 Edition Department of Computer Science and Engineering News Welcome Picnic on September 15 Welcome New CSE Faculty and Staff ABET accredits two CSE programs Grad Track offered for Undergraduate Students Distinguished Speakers in 2014 2015 Top 10 Reasons for CSE Majors to Join Teach North Texas Bug Wars REU at CSE in Summer 2014 RoboCamp has Successful Summer UNT Provost awards Venture Fund grant to CSE Faculty to teach in China CSE Faculty attends ICCCNT in China Invendo Medical s Colonoscope at UNT News from Computer Systems Research Laboratory Computer Vision and Intelligence Systems News News from Dependable Computing System...</DESC>
+<LINK>http://www.cse.unt.edu/people/StudentNewsletters/2014_Sep_StudentEmailNewsletter.html</LINK>
+</RESULT>
+<RESULT>
+<TITLE>UNT CSE Alumni Email Newsletter - September 2014</TITLE>
+<DESC>UNT CSE Alumni Email Newsletter   September 2014 September 2014   CSE News CSE Alumni News Student News College of Engineering News UNT News Greetings from the CSE Chair Dear CSE Alumni and Friends  Our Fall 2014 semester has begun  We welcome new faculty members Eduardo Blanco  Patrick Burke  Mark Thompson and new staff member Daisy Gillam  We congratulate Yan Huang on her promotion to Professor  Renee Bryce on her award of tenure  and Qunfeng Dong on his tenure and promotion to Associate Professor  Our CSE Department is growing and we will be searching for one more new faculty member this year  I am very proud to announce that our newest CSE program  the BA in Information Technology  has b...</DESC>
+<LINK>http://www.cse.unt.edu/people/AlumniNewsletters/2014_Sep_AlumniEmailNewsletter.html</LINK>
+</RESULT>
+</SEARCHRESULTS>
